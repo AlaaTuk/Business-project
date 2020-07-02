@@ -1,2 +1,2 @@
 # Business-project
-New York Stock Exchange
+ Analyze New York Stock Exchange
